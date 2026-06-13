@@ -10,9 +10,15 @@
 <br/>
 
 <!-- GitHub stats row -->
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wilfredo-domanico-jr&theme=nord_bright" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wilfredo-domanico-jr&theme=nord_bright" height="165"/>
+<div align="center" style="display:flex; justify-content:center; gap:10px;">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wilfredo-domanico-jr&theme=nord_bright" 
+    width="50%" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wilfredo-domanico-jr&theme=nord_bright" 
+    width="50%" 
+  />
 </div>
 
 ---
