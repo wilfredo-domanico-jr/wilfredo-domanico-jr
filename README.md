@@ -5,9 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=🚀+Full-Stack+Software+Engineer;💻+Web+%7C+Mobile+%7C+Desktop+%7C+Cross-Platform+Development;⚙️+Backend+%7C+APIs+%7C+System+Integration;🤖+AI+Agents+%7C+Automation+%7C+Python" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;Web+%7C+Mobile+%7C+Desktop+%7C+Cross-Platform;Backend+%7C+APIs+%7C+System+Integration;AI+Agents+%7C+Automation+%7C+Python" alt="Typing SVG"/>
 </div>
-
 <br/>
 
 <!-- GitHub stats row -->
