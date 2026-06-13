@@ -59,7 +59,7 @@ I’m **Wilfredo Domanico Jr.** — a Mid-Level Software Engineer with 3 years o
   <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,flask,java,cs,dotnet,php,laravel,go" />
 </p>
 
-### Databases & Caching
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,mongodb,supabase" />
